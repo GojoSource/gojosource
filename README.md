@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 🚀 Roger King</h1>
-<h3 align="center">Lead MERN Stack Developer | Full-Stack Expert | Cloud Solutions Architect</h3>
+<h3 align="center">Senior Full Stack Software Engineer | Full-Stack Expert | Cloud Solutions Architect</h3>
 
 <p align="center">
   <a href="mailto:tech.trailblazer12@gmail.com"><img src="https://img.shields.io/badge/email-tech.trailblazer12@gmail.com-blue?style=flat-square&logo=gmail" alt="email" /></a>
@@ -9,7 +9,7 @@
 
 ---
 
-🏢 Currently: **Lead MERN Stack Developer @ Rho Technologies**  
+🏢 Currently: **Senior Full Stack Software Engineer @ Rho Technologies**  
 🌐 Location: New York, NY  
 🎯 Passionate about crafting full-stack web apps, containerized deployments, and performance-optimized APIs.
 
@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a senior full-stack developer with 10+ years of experience building scalable, secure, and dynamic web applications using the **MERN stack (MongoDB, Express, React, Node.js)**. From designing high-performance APIs to deploying cloud-native microservices on **AWS**, **GCP**, and **Azure**, I specialize in delivering end-to-end software that performs in the real world.
+I’m a senior full-stack developer with 9+ years of experience building scalable, secure, and dynamic web applications using the **MERN stack (MongoDB, Express, React, Node.js)**. From designing high-performance APIs to deploying cloud-native microservices on **AWS**, **GCP**, and **Azure**, I specialize in delivering end-to-end software that performs in the real world.
 
 I'm also a strong team leader, agile practitioner, and advocate of clean code and CI/CD automation.
 
